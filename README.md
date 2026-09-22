@@ -22,6 +22,12 @@ Hier ein Überblick über die Systeme, mit denen ich täglich arbeite und experi
 
 ---
 
+### 📋 ToDo:
+
+* [ ] Persönliche Website aufbauen
+* [ ] Cisco: Networking Basics durcharbeiten
+* [ ] Serverdokumentation veröffentlichen
+
 ### 🔗 Links:
 
 * 🌐 **Website:** [bunkernet.cc](https://bunkernet.cc)
