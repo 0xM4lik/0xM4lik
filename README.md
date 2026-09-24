@@ -24,7 +24,7 @@ Hier ein Überblick über die Systeme, mit denen ich täglich arbeite und experi
 
 ### 📋 ToDo:
 
-* [ ] Persönliche Website aufbauen
+* [x] Persönliche Website aufbauen
 * [ ] Cisco: Networking Basics durcharbeiten
 * [ ] Serverdokumentation veröffentlichen
 
