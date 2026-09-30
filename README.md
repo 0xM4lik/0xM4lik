@@ -1,4 +1,4 @@
-# 👋 Hi, ich bin Janik (@0xM4lik)
+# 👋 Hi, ich bin Malik (@0xM4lik)
 
 Angehender Fachinformatiker für Systemintegration(FiSi) mit Schwerpunkt auf Linux-Administration, Homelab-Infrastruktur und Netzwerksicherheit.
 
