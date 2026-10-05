@@ -1,37 +1,39 @@
-# 👋 Hi, ich bin Malik (@0xM4lik)
+# 👋 Hi, I'm Malik (@0xM4lik)
 
-Angehender Fachinformatiker für Systemintegration(FiSi) mit Schwerpunkt auf Linux-Administration, Homelab-Infrastruktur und Netzwerksicherheit.
+🌐 *Read this in [German / Deutsch](GERMAN.md)*
+
+Aspiring IT Specialist for System Integration (FiSi) with a focus on Linux administration, homelab infrastructure, and network security.
 
 ---
 
-### 🖥️ Homelab & Tech-Stack
+### 🖥️ Homelab & Tech Stack
 
-Hier ein Überblick über die Systeme, mit denen ich täglich arbeite und experimentiere:
+Here is an overview of the systems I work and experiment with daily:
 
-* **Workstation:** Fedora Linux als tägliches Produktivsystem.
+* **Workstation:** Fedora Linux as my daily production system.
 * **Storage & Filesystems:**
-  * TrueNAS SCALE mit ZFS-Pools (automatisierte Snapshots, regelmäßige Scrubbing-Jobs, Datenintegrität).
-* **Virtualisierung & Container:**
-  * QEMU/KVM via `virt-manager` für isolierte Testlabore.
-  * Docker für Server Dienste und Container-Orchestrierung.
-* **Netzwerk & Sicherheit:**
-  * **DNS:** Lokales Pi-hole in Verbindung mit Unbound als rekursivem DNS-Resolver inklusive nativer DNSSEC-Validierung.
-  * **Remote Access:** Zero-Trust Mesh-Netzwerk via WireGuard (Tailscale) – sicherer Zugriff von unterwegs ohne offene Router-Ports.
-  * **Ingress:** Cloudflare Tunnels für externe Zugriffe ohne klassische Portweiterleitungen.
-  * **Mail:** Eigener SMTP/IMAP-Stack, aufgebaut zum praktischen Verständnis von MX-Records, SPF, DKIM und TLS-Verschlüsselung.
+  * TrueNAS SCALE with ZFS pools (automated snapshots, regular scrubbing jobs, data integrity).
+* **Virtualization & Containers:**
+  * QEMU/KVM via `virt-manager` for isolated test labs.
+  * Docker for server services and container orchestration.
+* **Network & Security:**
+  * **DNS:** Local Pi-hole combined with Unbound as a recursive DNS resolver including native DNSSEC validation.
+  * **Remote Access:** Zero-Trust mesh network via WireGuard (Tailscale) – secure access on the go without open router ports.
+  * **Ingress:** Cloudflare Tunnels for external access without traditional port forwarding.
+  * **Mail:** Custom SMTP/IMAP stack, built for practical understanding of MX records, SPF, DKIM, and TLS encryption.
 
 ---
 
-### 📋 ToDo:
+### 📋 To-Do:
 
-* [x] Persönliche Website aufbauen
-* [ ] Cisco: Networking Basics durcharbeiten
-* [ ] Serverdokumentation veröffentlichen
+* [x] Build personal website
+* [ ] Work through Cisco: Networking Basics
+* [ ] Publish server documentation
 
 ### 🔗 Links:
 
 * 🌐 **Website:** [bunkernet.cc](https://bunkernet.cc)
-* 📓 **Notizen:** [notes.bunkernet.cc](https://notes.bunkernet.cc)  
-  *Mein digitaler Notiz-Server (Quartz) – mit Dokumentationen zu Server-Konfigurationen, Netzwerk-Topologien und Writeups.*
-* 🎯 **HackTheBox:** [0xM4lik auf HackTheBox](https://app.hackthebox.com/users/1464597)  
-  *Praxisbezogenes Lernen zu Linux-Berechtigungen, Pentesting-Grundlagen und Netzwerksicherheit.*
+* 📓 **Notes:** [notes.bunkernet.cc](https://notes.bunkernet.cc)  
+  *My digital notebook (Quartz) – with documentation on server configurations, network topologies, and writeups.*
+* 🎯 **HackTheBox:** [0xM4lik on HackTheBox](https://app.hackthebox.com/users/1464597)  
+  *Hands-on learning focused on Linux permissions, pentesting fundamentals, and network security.*
